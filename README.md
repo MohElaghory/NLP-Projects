@@ -1,8 +1,7 @@
 # Natural Language Processing [NLP] Projects
-____
 
 
-## This Repository provides my NLP Projects/Tips & Tricks/Implemenations and more 🔥 🔥 🔥
+### This Repository provides my NLP Projects/Tips & Tricks/Implemenations and more 🔥 🔥 🔥
 ### This Reposirory will contains main two Folders: (Projects & Datasets)
 ________________
 
