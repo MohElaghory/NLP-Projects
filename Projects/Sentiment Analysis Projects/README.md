@@ -28,3 +28,5 @@ The overall benefits of sentiment analysis include:
 **Consistent criteria:** A centralized sentiment analysis system can improve accuracy and deliver better insights since tagging text by sentiment is highly subjective, influenced by personal experiences, thoughts, and beliefs. 
 
 
+![download](https://user-images.githubusercontent.com/44786324/183317040-2a13e3aa-80b9-43a1-b20a-9fc08d2cf8c7.png)
+
