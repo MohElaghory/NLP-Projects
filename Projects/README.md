@@ -1,2 +1,2 @@
 
-## This Folder contains the kernals in multiple NLP projects.
+## This Folder contains the kernals of multiple NLP projects.
